@@ -24,14 +24,14 @@ ALl you need to do is Clone>Download This code to your Raspberry Pi. setup to au
 Open The config.py File
   
 # Update your Credential Information 
-def username():
-    return('YOUR USERNAME')
+    def username():
+        return('YOUR USERNAME')
 
-def password():
-    return('YOUR PASSWORD')
+    def password():
+        return('YOUR PASSWORD')
 
-def IP():
-    return('IP YOU ENTERED AT DEVICE SETUP')
+    def IP():
+        return('IP YOU ENTERED AT DEVICE SETUP')
     
 Save this File > Reboot Pi 
 
